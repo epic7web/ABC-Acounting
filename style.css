@@ -1364,6 +1364,12 @@ footer .copyright{
 
     }
 
+    section {
+
+        scroll-margin-top: 80px;
+
+    } 
+
     .about-container{
 
         grid-template-columns:1fr;
@@ -1391,6 +1397,7 @@ footer .copyright{
     section{
 
         padding:70px 0;
+        scroll-margin-top: 20px;
 
     }
 
